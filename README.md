@@ -5,4 +5,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkcamaraa&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkcamaraa&repo=github-readme-stats)](https://github.com/mkcamaraa/github-readme-stats)
